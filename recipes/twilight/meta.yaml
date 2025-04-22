@@ -44,3 +44,7 @@ about:
   summary: "Tall and Wide Alignments at High Throughput."
   dev_url: "https://github.com/TurakhiaLab/TWILIGHT"
   doc_url: "https://turakhia.ucsd.edu/TWILIGHT/#overview"
+
+extra:
+  recipe-maintainers:
+    - y3tseng
